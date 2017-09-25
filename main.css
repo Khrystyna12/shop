@@ -1,0 +1,115 @@
+.bl-background {
+    background: #cdcbcb;
+    padding: 2%;
+    height: 600px;
+}
+
+.bl-list {
+    background: white;
+    display: inline-block;
+    margin-top: 5%;
+    margin-left: 5%;
+    width: 59%;
+    height: 250px;
+    border-radius: 5px;
+}
+
+.bl-bought {
+    background: white;
+    display: inline-block;
+    margin-top: 5%;
+    margin-right: 5%;
+    float: right;
+    width: 30%;
+    height: 220px;
+    border-radius: 5px;
+}
+
+.bl-row {
+    display: block;
+    padding: 10px;
+    border: 1px solid #cdcbcb;
+    height: 41px;
+    vertical-align: middle;
+}
+
+.bl-line {
+    display: block;
+    padding: 10px;
+    border: 1px solid #cdcbcb;
+    border-radius: 5px;
+    height: 20px;
+    vertical-align: middle;
+}
+
+.bl-product {
+    display: inline-block;
+    width: 45%;
+}
+
+.bl-product2 {
+    background: #cdcbcb;
+    display: inline-block;
+    padding: 10px;
+    border-radius: 5px;
+    height: 20px;
+}
+
+.bl-number {
+    display: inline-block;
+    background: #f08111;
+    color: white;
+    padding: 10px;
+    border-radius: 50%;
+    width: 6px;
+    height: 6px;
+}
+
+/*Кнопки*/
+.bl-minus {
+    background: #f01019;
+    color: white;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+}
+.bl-label {
+    background: #cdcbcb;
+    border-radius: 5px;
+    width: 30px;
+    height: 30px;
+}
+.bl-plus {
+    background: #04a613;
+    color: white;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+}
+.bl-add {
+    display: inline-block;
+    background: #0615bf;
+    float: right;
+    color: white;
+}
+
+.bl-buttons {
+    display: inline-block;
+    width: 20%;
+    float: right;
+}
+
+.bl-bought2 {
+    background: #cdcbcb;
+    border-radius: 5px;
+    float: left;
+    width: 70%;
+    height: 40px;
+}
+
+.bl-x {
+    background: #f01019;
+    color: white;
+    border-radius: 5px;
+    height: 40px;
+}
